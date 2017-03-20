@@ -27,7 +27,9 @@
       'rxjs': 'npm:rxjs',
       'angular2-in-memory-web-api': 'npm:angular2-in-memory-web-api',
       'ts': 'npm:plugin-typescript/lib/plugin.js',
-      'typescript': 'npm:typescript/lib/typescript.js'
+      'typescript': 'npm:typescript/lib/typescript.js',
+      'mapbox-gl': 'npm:mapbox-gl/dist/mapbox-gl.js',
+      'angular2-mapbox/core': 'npm:angular2-mapbox/core/core.umd.js'
     },
     packages: {
       app: {
